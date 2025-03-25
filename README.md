@@ -1,1 +1,3 @@
 # 202401100300042_digit_detection
+Image classification and digit detection are fundamental tasks in computer vision, widely applied in fields such as autonomous systems, healthcare, security, and finance. Machine learning (ML) and deep learning (DL) techniques have significantly improved the accuracy and efficiency of these tasks.
+Image classification involves categorizing images into predefined classes based on visual features. Traditional machine learning methods use handcrafted features like Histogram of Oriented Gradients (HOG) and Support Vector Machines (SVM). However, deep learning techniques, particularly Convolutional Neural Networks (CNNs), have revolutionized classification by automatically extracting features from images.
